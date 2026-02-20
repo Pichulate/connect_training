@@ -1,0 +1,73 @@
+﻿Nome da Aba/Campo,Significado do campo,Direcionamento,Exemplo
+Status,Status em que a meeting se encontra,"Ao agendar o status deve ser colocado como scheduled. Ao fim, da meeting deve ser alterado para completed. 
+Scheduled: a data tem que ser maior que a data atual.
+Completed: a data tem que ser igual ou menor que a data atual.","Potential: status em que a meeting deve ser criada. Utilize no momento que você já souber que gostaria de realizar uma conexão com aquele mentor.
+Scheduled: status utilizado para quando você já possuir dia e horário para a mentoria. Atualize esse campo no momento em que obtiver a confirmação da data e horário da mentoria.
+Completed: status a ser utilizado após a mentoria ser realizada.
+Cancelled: status a utilizar quando uma mentoria que já estava agendada (scheduled) for cancelada.
+No response: status a ser utilizado quando você não obtiver resposta para um pedido de mentoria realizado.
+Refused: status a ser utilizado quando um mentor recusar seu pedido de mentoria."
+General Info,,,
+Company,"Empresa para qual a meeting será realizada ",Para aparecer na lista precisa ter uma Account da empresa criada no Sales Force,"Credix; Livemode; Cayena; Creditas, etc."
+Atendees,,,
+Role,Papel que a pessoa assumirá durante o papo,Empreendedor para qual a meeting será realizada (Received); Mentor/a que fará a mentoria (Donated); ou Staff da Endeavor que acompanhará a meet (Neutral),"Received;
+Donated;
+Neutral"
+Atendee (company),"Nome das pessoas (empreendedora, mentora ou staff) que fará parte da mentoria","Para aparecer na lista precisa ter uma Contact da pessoa criada no Sales Force. No caso de mentores, o campo “Relationship to Endeavor” do Sales Force deve estar atualizado","Sérgio Furio;
+Jean-Marc; 
+Juliana Freitas"
+Stage,Etapa do funil dos diferentes produtos de aceleração da Endeavor,"Scale-Up, Seleção ou EEs.",-
+Type,"Tipo da meeting: mentoria, mentoria avaliativa, painel local, apadrinhamento, diagnóstico, entre outros","Opções mostradas dependem diretamente do campo selecionado em ‘Stage’. 
+Isso nos permite realizar análises diferentes sobre Meetings, por ex. saber quantas mentorias de diagnóstico estamos fazendo, conexões comerciais, etc.","Diagnostics: Mentoria de diagnóstico no começo do programa para extrair os principais desafios a serem abordados no decorrer da aceleração
+Godparent: Mentoria de encontros individuais e recorrente entre o founder e o mentor, durante um período determinado de tempo.
+Spot Mentoring: Mentoria não recorrente, esporádica, sem um acompanhamento cadenciado da pessoa mentora durante um determinado período de tempo;
+P2P (group): 
+Mentoring:
+"
+Subject,Assunto que foi abordado na Meeting,"One liner que deixe claro sobre o que é aquela conexão. Idealmente trazer um contexto adicional do desafio, o grande tema da mentoria. Se não tiver grande tema pode ser o próprio porcesso de seleção (2nd, PL). O resto do time tem que olhar para isso e rapidamente saber sobre do que se tratou. Filtro de Keywords busca aqui também.","- Geração de demanda B2B SMB por canais;
+- Estratégias de gtm para Account Based Marketing;
+- Estruturação de founding team, sourcing e compensation"
+Date/Time,Dia e horário em que a meeting acontecerá,-,-
+Duration (minutes),Estimativa de tempo de duração da meeting,-,-
+"Challenge ",Tema do meetup/mentoria para entender o macro tema.," Houve um Revamp pela Global. Aqui explicam com detalhes cada um 
+Renovação das Functional Skills - Global (https://www.notion.so/Renova-o-das-Functional-Skills-Global-c1670ecbf5f14e34b12b1382ecf96604?pvs=21) 
+Ao adicionar um challenge, presume-se que a pessoa ‘donated’ têm entendimento sobre esse desafio. Uma mentoria boa sugere que a pessoa possui conhecimento sobre o tema, o que é valioso a longo prazo. Ao buscar por skills no criteria filter, as habilidades também são retornadas quando a pessoa tem uma certa quantidade de mentorias sobre esse assunto, enriquecendo assim o histórico de giveback.","Marketing & Sales: Channel Specific Sales (SMB, Enterprise, etc.)
+Marketing & Sales: Lead Conversion & Upselling
+Raising Capital & Exiting: Early Stage Funding (Seed & Series A)"
+Topics,Subconjunto de quebra em tópicos. Como os capítulos de um livro,"Usamos esse modelo de # para os tópicos, palavras-chave que refletem o conteúdo da mentoria. O objetivo é compreender os micro desafios e os assuntos dentro do tema macro. Essa estrutura também é aplicada na busca, pois as pessoas geralmente utilizam palavras específicas em suas pesquisas. Por meio desse modelo, é possível construir um mapa mental detalhado sobre o domínio e subdomínio das habilidades do mentor, capturando não apenas as palavras, mas também seus significados similares.","Empreendedor está testando um novo canal e pivotando seu ICP:
+#ICP, #GTM, #go-to-market, #Pivot, #Foco em cliente, #SMB vs Enterprise, #novo canal"
+Transcript Link (Meeting Notes),Anotações feitas durante a meeting,Só aceita links.,-
+1-5 satisfied with connection,Nível de satisfação do gestor de contas em relação à conexão,"A percepção do gestor que acompanhou a mentoria permite que consiga avaliar quanto aquela conexão foi relevante ou não para o founder.
+Com o tempo e as pessoas preenchendo na meeting, isso surgirá no Profile Modal automaticamente como UPVOTES em cada profile characteristic, e isso será um histórico das soft skills daquele mentor e comportamentos.",-
+Mentor’s highlights,Pontos positivos sobre a pessoa mentora no processo antes e durante a mentoria,"Marcar as melhores opções que descrevem pontos positivos da pessoa mentora, tanto no processo de marcação, preparação e comportamento/entrega durante a mentoria","Appointment agility
+Previous preparation
+Active listening
+Contextual adaptation
+Actionable feedback"
+Mentor’s key characteristics,Características da personalidade da pessoa mentora,"Marcar as opções que melhor descrevem a pessoa mentora em termos de personalidade, modo de ser, maneira que se apresenta e impressão que deixa","Curious
+Pragmatic
+Suggestive
+Detail-oriented
+Succint
+Charismatic
+Endevorised"
+General Info,,,
+Status,Status em que a meeting se encontra,"Ao fim da meeting deve ser alterado para completed. 
+Completed: a data tem que ser igual ou menor que a data atual.","Potential: Toda potencial conexão que esteja no radar;
+No Response: Caso o mentor/a não tenho respondido o pedido de mentoria
+Refused: Caso o mentor/a tenha recusado o pedido de mentoria
+Scheduled: Depois de confirmar datas e disparar invites para ambas as partes;
+Cancelled: Caso uma das partes tenha cancelado e a meeting não aconteceu;
+Completed: Ao final da meeting"
+Attendees,,,
+Send rating,Botão para enviar o rating para ambas as partes (Donated e Received) que participaram da meeting,"Queremos cada vez mais saber a qualidade do nosso serviço e como ela evolui ao longo do tempo. A Endeavor tem uma meta de conseguir 50% das respostas (Donated e Received). Para isso precisamos que os envios sejam o mais próxima de 100% possível.
+Esse campo só aparece para meeting types específicos e depois de Completed. Mandamos para todos os participantes. Se não tivermos o número de um C-level, deve-se criar uma affiliation no Sales Force e adicionar o telefone no campo Mobile.","Regras: 55+DDD+número. 
+1. Ao enviar, o botão de “Send Rating” fica bloqueado por 24h. 
+2. Fluxo do Rating Status: ‘Rating sent successfully’ > ‘Waiting for response’ > ‘Partial Response Received’ > ‘Response Received’. 
+3. Follow Up manual."
+Staff Feedbacks,,,
+Mentor’s lowlights,Pontos negativos sobre a pessoa mentora no processo antes e durante a mentoria,"Marcar as opções que descrevem pontos negativos da pessoa mentora, tanto no processo de marcação, preparação e comportamento/entrega durante a mentoria","Challenging scheduling
+Unprepared mentor
+Dificulty listening
+Generic advice
+Contextual gap"

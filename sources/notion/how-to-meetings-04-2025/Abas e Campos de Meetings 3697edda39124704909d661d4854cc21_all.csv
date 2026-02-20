@@ -1,0 +1,73 @@
+﻿Nome da Aba/Campo,Direcionamento,Exemplo,Momento de preenchimento,Parent item,Significado do campo,Sub-item
+1-5 satisfied with connection,"A percepção do gestor que acompanhou a mentoria permite que consiga avaliar quanto aquela conexão foi relevante ou não para o founder.
+Com o tempo e as pessoas preenchendo na meeting, isso surgirá no Profile Modal automaticamente como UPVOTES em cada profile characteristic, e isso será um histórico das soft skills daquele mentor e comportamentos.",-,Pós-Meeting,Staff Feedbacks (https://www.notion.so/Staff-Feedbacks-9b1277b1d9074cb08f75b3a833dc933a?pvs=21),Nível de satisfação do gestor de contas em relação à conexão,
+General Info,,,Pré-Meeting,,,"Company (https://www.notion.so/Company-99c5b5d3a5ea4d26b296ec8f7d196f73?pvs=21), Stage (https://www.notion.so/Stage-cdcdab17b6cc464487d46dd8ea951aad?pvs=21), Type (https://www.notion.so/Type-5664d5b0e2f643a992032f3b29fe6efa?pvs=21), Subject (https://www.notion.so/Subject-736821cdbe3e4677ab0588f2f6b0533a?pvs=21), Date/Time (https://www.notion.so/Date-Time-ed209a67d7734270bdcc714251632e71?pvs=21), Duration (minutes) (https://www.notion.so/Duration-minutes-87603f4d2aa445009607a1b9f6ab6a40?pvs=21), Status (https://www.notion.so/Status-b6315fc7131c46728623ed6b1c669188?pvs=21)"
+Mentor’s lowlights,"Marcar as opções que descrevem pontos negativos da pessoa mentora, tanto no processo de marcação, preparação e comportamento/entrega durante a mentoria","Challenging scheduling
+Unprepared mentor
+Dificulty listening
+Generic advice
+Contextual gap",Pós-Meeting,Staff Feedbacks (https://www.notion.so/Staff-Feedbacks-9b1277b1d9074cb08f75b3a833dc933a?pvs=21),Pontos negativos sobre a pessoa mentora no processo antes e durante a mentoria,
+Status,"Ao fim da meeting deve ser alterado para completed. 
+Completed: a data tem que ser igual ou menor que a data atual.","Potential: Toda potencial conexão que esteja no radar;
+No Response: Caso o mentor/a não tenho respondido o pedido de mentoria
+Refused: Caso o mentor/a tenha recusado o pedido de mentoria
+Scheduled: Depois de confirmar datas e disparar invites para ambas as partes;
+Cancelled: Caso uma das partes tenha cancelado e a meeting não aconteceu;
+Completed: Ao final da meeting",Pós-Meeting,General Info (https://www.notion.so/General-Info-94ca40991925462fb02c33448f264be3?pvs=21),Status em que a meeting se encontra,
+General Info,,,Pós-Meeting,,,Status (https://www.notion.so/Status-4daf2fd61bc9450fb99a2d99548ab1a4?pvs=21)
+Atendees,,,Pré-Meeting,,,"Atendee (company) (https://www.notion.so/Atendee-company-2ec62ec344794259a4ef15886adb47b6?pvs=21), Role (https://www.notion.so/Role-0d4afc7ccca54a18b1e4cb34ad1189c2?pvs=21)"
+Mentor’s key characteristics,"Marcar as opções que melhor descrevem a pessoa mentora em termos de personalidade, modo de ser, maneira que se apresenta e impressão que deixa","Curious
+Pragmatic
+Suggestive
+Detail-oriented
+Succint
+Charismatic
+Endevorised",Pós-Meeting,Staff Feedbacks (https://www.notion.so/Staff-Feedbacks-9b1277b1d9074cb08f75b3a833dc933a?pvs=21),Características da personalidade da pessoa mentora,
+Status,"Ao agendar o status deve ser colocado como scheduled. Ao fim, da meeting deve ser alterado para completed. 
+Scheduled: a data tem que ser maior que a data atual.
+Completed: a data tem que ser igual ou menor que a data atual.","Potential: status em que a meeting deve ser criada. Utilize no momento que você já souber que gostaria de realizar uma conexão com aquele mentor.
+Scheduled: status utilizado para quando você já possuir dia e horário para a mentoria. Atualize esse campo no momento em que obtiver a confirmação da data e horário da mentoria.
+Completed: status a ser utilizado após a mentoria ser realizada.
+Cancelled: status a utilizar quando uma mentoria que já estava agendada (scheduled) for cancelada.
+No response: status a ser utilizado quando você não obtiver resposta para um pedido de mentoria realizado.
+Refused: status a ser utilizado quando um mentor recusar seu pedido de mentoria.",Pré-Meeting,General Info (https://www.notion.so/General-Info-06817c1473154ac9ba9fe2315c64b303?pvs=21),Status em que a meeting se encontra,
+Date/Time,-,-,Pré-Meeting,General Info (https://www.notion.so/General-Info-06817c1473154ac9ba9fe2315c64b303?pvs=21),Dia e horário em que a meeting acontecerá,
+Atendee (company),"Para aparecer na lista precisa ter uma Contact da pessoa criada no Sales Force. No caso de mentores, o campo “Relationship to Endeavor” do Sales Force deve estar atualizado","Sérgio Furio;
+Jean-Marc; 
+Juliana Freitas",Pré-Meeting,Atendees (https://www.notion.so/Atendees-a796b66f8f0a4d93bb5de4d69e0c138d?pvs=21),"Nome das pessoas (empreendedora, mentora ou staff) que fará parte da mentoria",
+Topics,"Usamos esse modelo de # para os tópicos, palavras-chave que refletem o conteúdo da mentoria. O objetivo é compreender os micro desafios e os assuntos dentro do tema macro. Essa estrutura também é aplicada na busca, pois as pessoas geralmente utilizam palavras específicas em suas pesquisas. Por meio desse modelo, é possível construir um mapa mental detalhado sobre o domínio e subdomínio das habilidades do mentor, capturando não apenas as palavras, mas também seus significados similares.","Empreendedor está testando um novo canal e pivotando seu ICP:
+#ICP, #GTM, #go-to-market, #Pivot, #Foco em cliente, #SMB vs Enterprise, #novo canal",Pós-Meeting,Staff Feedbacks (https://www.notion.so/Staff-Feedbacks-9b1277b1d9074cb08f75b3a833dc933a?pvs=21),Subconjunto de quebra em tópicos. Como os capítulos de um livro,
+Transcript Link (Meeting Notes),Só aceita links.,-,Pós-Meeting,Staff Feedbacks (https://www.notion.so/Staff-Feedbacks-9b1277b1d9074cb08f75b3a833dc933a?pvs=21),Anotações feitas durante a meeting,
+Subject,"One liner que deixe claro sobre o que é aquela conexão. Idealmente trazer um contexto adicional do desafio, o grande tema da mentoria. Se não tiver grande tema pode ser o próprio porcesso de seleção (2nd, PL). O resto do time tem que olhar para isso e rapidamente saber sobre do que se tratou. Filtro de Keywords busca aqui também.","- Geração de demanda B2B SMB por canais;
+- Estratégias de gtm para Account Based Marketing;
+- Estruturação de founding team, sourcing e compensation",Pré-Meeting,General Info (https://www.notion.so/General-Info-06817c1473154ac9ba9fe2315c64b303?pvs=21),Assunto que foi abordado na Meeting,
+"Challenge "," Houve um Revamp pela Global. Aqui explicam com detalhes cada um 
+Renovação das Functional Skills - Global (https://www.notion.so/Renova-o-das-Functional-Skills-Global-c1670ecbf5f14e34b12b1382ecf96604?pvs=21) 
+Ao adicionar um challenge, presume-se que a pessoa ‘donated’ têm entendimento sobre esse desafio. Uma mentoria boa sugere que a pessoa possui conhecimento sobre o tema, o que é valioso a longo prazo. Ao buscar por skills no criteria filter, as habilidades também são retornadas quando a pessoa tem uma certa quantidade de mentorias sobre esse assunto, enriquecendo assim o histórico de giveback.","Marketing & Sales: Channel Specific Sales (SMB, Enterprise, etc.)
+Marketing & Sales: Lead Conversion & Upselling
+Raising Capital & Exiting: Early Stage Funding (Seed & Series A)",Pós-Meeting,Staff Feedbacks (https://www.notion.so/Staff-Feedbacks-9b1277b1d9074cb08f75b3a833dc933a?pvs=21),Tema do meetup/mentoria para entender o macro tema.,
+Send rating,"Queremos cada vez mais saber a qualidade do nosso serviço e como ela evolui ao longo do tempo. A Endeavor tem uma meta de conseguir 50% das respostas (Donated e Received). Para isso precisamos que os envios sejam o mais próxima de 100% possível.
+Esse campo só aparece para meeting types específicos e depois de Completed. Mandamos para todos os participantes. Se não tivermos o número de um C-level, deve-se criar uma affiliation no Sales Force e adicionar o telefone no campo Mobile.","Regras: 55+DDD+número. 
+1. Ao enviar, o botão de “Send Rating” fica bloqueado por 24h. 
+2. Fluxo do Rating Status: ‘Rating sent successfully’ > ‘Waiting for response’ > ‘Partial Response Received’ > ‘Response Received’. 
+3. Follow Up manual.",Pós-Meeting,Attendees (https://www.notion.so/Attendees-e684a7d5548f4b8288507ccb0e7d223c?pvs=21),Botão para enviar o rating para ambas as partes (Donated e Received) que participaram da meeting,
+Duration (minutes),-,-,Pré-Meeting,General Info (https://www.notion.so/General-Info-06817c1473154ac9ba9fe2315c64b303?pvs=21),Estimativa de tempo de duração da meeting,
+Mentor’s highlights,"Marcar as melhores opções que descrevem pontos positivos da pessoa mentora, tanto no processo de marcação, preparação e comportamento/entrega durante a mentoria","Appointment agility
+Previous preparation
+Active listening
+Contextual adaptation
+Actionable feedback",Pós-Meeting,Staff Feedbacks (https://www.notion.so/Staff-Feedbacks-9b1277b1d9074cb08f75b3a833dc933a?pvs=21),Pontos positivos sobre a pessoa mentora no processo antes e durante a mentoria,
+Attendees,,,Pós-Meeting,,,Send rating (https://www.notion.so/Send-rating-7d31bf7d27dc4f12b9b25f3a5eb837cf?pvs=21)
+Role,Empreendedor para qual a meeting será realizada (Received); Mentor/a que fará a mentoria (Donated); ou Staff da Endeavor que acompanhará a meet (Neutral),"Received;
+Donated;
+Neutral",Pré-Meeting,Atendees (https://www.notion.so/Atendees-a796b66f8f0a4d93bb5de4d69e0c138d?pvs=21),Papel que a pessoa assumirá durante o papo,
+Type,"Opções mostradas dependem diretamente do campo selecionado em ‘Stage’. 
+Isso nos permite realizar análises diferentes sobre Meetings, por ex. saber quantas mentorias de diagnóstico estamos fazendo, conexões comerciais, etc.","Diagnostics: Mentoria de diagnóstico no começo do programa para extrair os principais desafios a serem abordados no decorrer da aceleração
+Godparent: Mentoria de encontros individuais e recorrente entre o founder e o mentor, durante um período determinado de tempo.
+Spot Mentoring: Mentoria não recorrente, esporádica, sem um acompanhamento cadenciado da pessoa mentora durante um determinado período de tempo;
+P2P (group): 
+Mentoring:
+",Pré-Meeting,General Info (https://www.notion.so/General-Info-06817c1473154ac9ba9fe2315c64b303?pvs=21),"Tipo da meeting: mentoria, mentoria avaliativa, painel local, apadrinhamento, diagnóstico, entre outros",
+Company,Para aparecer na lista precisa ter uma Account da empresa criada no Sales Force,"Credix; Livemode; Cayena; Creditas, etc.",Pré-Meeting,General Info (https://www.notion.so/General-Info-06817c1473154ac9ba9fe2315c64b303?pvs=21),"Empresa para qual a meeting será realizada ",
+Staff Feedbacks,,,Pós-Meeting,,,"Challenge  (https://www.notion.so/Challenge-746bf5eb3ed8477b98077488eedfcafe?pvs=21), Topics (https://www.notion.so/Topics-361775ab927c41f9ab814547cac85d3c?pvs=21), Transcript Link (Meeting Notes) (https://www.notion.so/Transcript-Link-Meeting-Notes-651c90271c4a462ea974fcffb84c5074?pvs=21), 1-5 satisfied with connection (https://www.notion.so/1-5-satisfied-with-connection-00b64cf2a58c42e5a0f0a003073a77ab?pvs=21), Mentor’s highlights (https://www.notion.so/Mentor-s-highlights-ac91fa41b726480caff9ff43ed2058f3?pvs=21), Mentor’s lowlights (https://www.notion.so/Mentor-s-lowlights-3302b5a2d7cc4565bb0e3c96124961b9?pvs=21), Mentor’s key characteristics (https://www.notion.so/Mentor-s-key-characteristics-b122fd45f5b04dd1911b030d792a4492?pvs=21)"
+Stage,"Scale-Up, Seleção ou EEs.",-,Pré-Meeting,General Info (https://www.notion.so/General-Info-06817c1473154ac9ba9fe2315c64b303?pvs=21),Etapa do funil dos diferentes produtos de aceleração da Endeavor,

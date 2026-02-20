@@ -1,0 +1,49 @@
+﻿Connect - Type,Connect - Stage,Quando usar,Regras de preenchimento da “Subject”,Outras features habilitadas no Connect
+Checkpoint,"EE, EE Selection, Scale-Up",Quando precisamos coletar informações ou atualizar o plano de trabalho com o founder da empresa apoiada e não há doação de horas de nenhuma parte.,-,"AI Suggested Priorities, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+Diagnostics,Scale-Up,Quando a pessoa fundadora não tem muito claro quais são seus principais desafios e queremos ter uma orientação mais assertiva com uma pessoa mentora para definir melhor pontos no plano de aceleração da empresa apoiada.,"One liner sobre o que é aquela conexão. Idealmente trazer um contexto adicional do desafio, o grande tema da mentoria. ","Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings), Send Rating"
+Godparent Mentoring,Scale-Up,Quando são necessárias sessões consecutivas de mentorias com a mesma pessoa mentora e há uma evolução do acompanhamento periódico do desafio abordado,"One liner sobre o que é aquela conexão. Idealmente trazer um contexto adicional do desafio, o grande tema da mentoria. 
+Ex.:
+- Geração de demanda B2B SMB por canais;
+- Estratégias de gtm para Account Based Marketing;
+- Estruturação de pitch em captação Series A para empresas non-tech.","AI Generated Meeting Summary, Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings), Send Rating"
+Spot Mentoring,Scale-Up,"Quando é feito uma única sessão de mentoria para sanar um desafio pontual da pessoa empreendedora, sem a necessidade de um acompanhamento mais perene e periódico com a mesma pessoa mentora.","One liner sobre o que é aquela conexão. Idealmente trazer um contexto adicional do desafio, o grande tema da mentoria. 
+Ex.:
+- Geração de demanda B2B SMB por canais;
+- Estratégias de gtm para Account Based Marketing;","AI Generated Meeting Summary, Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings), Send Rating"
+Mentoring,"EE, EE Selection",Quando acontece uma mentoria para sanar um desafio da pessoa empreendedora.,"One liner sobre o que é aquela conexão. Idealmente trazer um contexto adicional do desafio, o grande tema da mentoria. 
+Diferenciar entre [Spot] e [Contínua]
+Se for Coaching:
+[Coaching]
+Se for benchmark:
+[Benchmark]
+Para acesso à mercados internacionais:
+[Acesso a mercados]
+Para apoio em fundraising:
+[Fundraising]
+Para introdução à Advisors:
+[Intro a Advisor]","AI Generated Meeting Summary, Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings), Send Rating"
+Founder to Founder,"EE Selection, Scale-Up",Quando conectamos pessoas fundadoras entre si para troca de experiências entre pares de mesma maturidade ou entre empresas. Quando desejam conversar e aprender com referências de mercado sobre como solucionaram um desafio específico ou sobre como fazem determinado processo.,"One liner sobre o que é aquela conexão. Idealmente trazer um contexto adicional do desafio, o grande tema da mentoria. ","Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+Meetup / Gathering,"EE, EE Selection, Scale-Up",Quando temos uma pessoa doando horas e falando sobre um conhecimento específico com grupo de pessoas empreendedoras/Gathering: encontro só entre pessoas empreendedoras em que não tem um donated específico.,-,"AI Generated Meeting Summary, Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+P2P (Group),"EE, EE Selection, Scale-Up",Somente reuniões que fazem parte do programa P2P. Quando existe um grupo que tem alta sinergia entre si e disponibilidade para participar dos encontros periódicos.,-,"Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+Investor Intro,"EE, EE Selection, Scale-Up",Quando apoiamos no processo de captação das empresas apoiadas com introdução com fundos.,"Para conexão com SUPV ou Catalyst:
+[SUP Ventures] ou [Catalyst]
+Para Fundos Globais:
+[Fundo Global]
+Para fundos brasileiros:
+-","Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+Coomercial Intro,"EE, EE Selection, Scale-Up",Quando apoiamos com introdução com potenciais parcerias comerciais com Corporates da rede.,-,"Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+Partnership Intro,"EE, EE Selection, Scale-Up",Quando existem demandas de negócios que podem potencialmente criar sinergias de parceria com outras empresas da rede.,-,"Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+Talent Intro,"EE, EE Selection, Scale-Up",Quando apoiamos com introdução com potenciais talentos para a empresa apoiada.,"Se for para checagem:
+[Checagem de referência]","Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+Connection to EE’s Team,EE,"Quando acontece uma conexão focada em resolver um desafio da pessoa do time da empresa apoida, que não seja o EE (C-level, Diretoria, etc).","One liner sobre o que é aquela conexão. Idealmente trazer um contexto adicional do desafio, o grande tema da mentoria. ","Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+EE Advisory Board Meeting,EE,,"Se for Comitê:
+[Comitê Estratégico]","Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+2nd Opinion Review,EE Selection,"Etapa do processo de seleção de EE, com o objetivo de identificar, a partir dos critérios da Endeavor, se a empresa está apta para seguir para a próxima etapa de seleção, o Painel Local. ",,"Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings), Send Rating"
+Financial Review,EE Selection,"Etapa do processo de seleção de EE, com foco nas métricas financeiras da empresa.",,"Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings), Send Rating"
+Legal Due Dilligence,EE Selection,,,"Entreprenuer's Priorities - Related Meeting, Keywords Criteria Filters Search, Mentor’s Profile Model (Last Meetings)"
+Global Review,EE Selection,,,
+Local Review,EE Selection,,,
+LSP,EE Selection,,,
+ISP Interviews,EE Selection,,,
+ISP Deliberation,EE Selection,,,
+,,,,

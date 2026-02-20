@@ -1,0 +1,63 @@
+﻿Produto,Meeting Stage,Meeting Type,Type no SF,Stage no SF
+SUP,Scale-Up,1st Opinion Review,Interview,ScaleUp/Local Program
+SUP,Scale-Up,Checkpoint / Onboarding,Needs Asessment - Roadmap,ScaleUp/Local Program
+SUP,Scale-Up,Diagnostics,Mentoring,ScaleUp/Local Program
+SUP,Scale-Up,Godparent Mentoring,Mentoring,ScaleUp/Local Program
+SUP,Scale-Up,Spot Mentoring,Mentoring,ScaleUp/Local Program
+SUP,Scale-Up,Founder to Founder,Community Meeting,ScaleUp/Local Program
+SUP,Scale-Up,Meetup / Gathering,Community Meeting,ScaleUp/Local Program
+SUP,Scale-Up,P2P (group),Community Meeting,ScaleUp/Local Program
+SUP,Scale-Up,Investor Intro,Investor Introduction,ScaleUp/Local Program
+SUP,Scale-Up,Commercial Intro,Partner Introduction,ScaleUp/Local Program
+SUP,Scale-Up,Partnership Intro,Partner Introduction,ScaleUp/Local Program
+SUP,Scale-Up,Talent Intro,Network Introduction,ScaleUp/Local Program
+SUP,Scale-Up,Others,Working Session,ScaleUp/Local Program
+SUP,Scale-Up Alumni,Checkpoint / Onboarding,Needs Asessment - Roadmap,ScaleUp/Local Program Alumni
+SUP,Scale-Up Alumni,Mentoring,Mentoring,ScaleUp/Local Program Alumni
+SUP,Scale-Up Alumni,Meetup / Gathering,Community Meeting,ScaleUp/Local Program Alumni
+SUP,Scale-Up Alumni,P2P (group),Community Meeting,ScaleUp/Local Program Alumni
+SUP,Scale-Up Alumni,Founder to Founder,Community Meeting,ScaleUp/Local Program Alumni
+SUP,Scale-Up Alumni,Investor Intro,Investor Introduction,ScaleUp/Local Program Alumni
+SUP,Scale-Up Alumni,Commercial Intro,Partner Introduction,ScaleUp/Local Program Alumni
+SUP,Scale-Up Alumni,Partnership Intro,Partner Introduction,ScaleUp/Local Program Alumni
+SUP,Scale-Up Alumni,Talent Intro,Network Introduction,ScaleUp/Local Program Alumni
+SUP-O," Scale-Up Outliers / Selection",1st Opinion Review,1st Opinion Review,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",2nd Opinion Review,General 2nd Opinion Review,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Financial Review,Financial 2nd Opinion Review,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Legal Due Diligence,Volunteer Support,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Global Review,Global Review,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Local Review,Final Review,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",LSP,Local Panel,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",ISP Interviews,International Panel,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",ISP Deliberation,Deliberations,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Checkpoint / Onboarding,Needs Asessment - Roadmap,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Mentoring,Mentoring,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Meetup / Gathering,Community Meeting,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",P2P (group),Community Meeting,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Founder to Founder,Community Meeting,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Investor Intro,Investor Introduction,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Commercial Intro,Commercial Introduction,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Partnership Intro,Partner Introduction,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Talent Intro,Talent Introduction,Pre-Selection
+SUP-O," Scale-Up Outliers / Selection",Others,Working Session,Pre-Selection
+EE,EE,Checkpoint / Onboarding,Needs Asessment - Roadmap,Post-Selection
+EE,EE,Mentoring,Mentoring,Post-Selection
+EE,EE,Connection to EE’s Team,Mentoring,Post-Selection
+EE,EE,EE Advisory Board Meeting,EE Advisory Board Meeting,Post-Selection
+EE,EE,Meetup / Gathering,Community Meeting,Post-Selection
+EE,EE,P2P (group),Community Meeting,Post-Selection
+EE,EE,Investor Intro,Investor Introduction,Post-Selection
+EE,EE,Commercial Intro,Commercial Introduction,Post-Selection
+EE,EE,Partnership Intro,Partner Introduction,Post-Selection
+EE,EE,Talent Intro,Talent Introduction,Post-Selection
+EE,EE,Others,Working,Post-Selection
+GR/Embaixadores/Times Endeavor,Others,Mentor Checkpoint,Network Care,"Non-Selection "
+GR/Embaixadores/Times Endeavor,Others,Donor Checkpoint,Network Care,"Non-Selection "
+GR/Embaixadores/Times Endeavor,Others,Network Gathering,Network Care,"Non-Selection "
+GR/Embaixadores/Times Endeavor,Others,Mentor Recruitment,Network Recruitment,"Non-Selection "
+GR/Embaixadores/Times Endeavor,Others,Donor Recruitment,Network Recruitment,"Non-Selection "
+GR/Embaixadores/Times Endeavor,Others,Other Network Intro,Network Introduction,"Non-Selection "
+GR/Embaixadores/Times Endeavor,Others,Mentoring to Endeavor Staff,Mentoring to Endeavor Staff (Non-EE),"Non-Selection "
+GR/Embaixadores/Times Endeavor,Others,Endeavor Board Meeting,Board Meeting,"Non-Selection "
+GR/Embaixadores/Times Endeavor,Others,Endeavor Committee Meeting,Board Meeting,"Non-Selection "
+GR/Embaixadores/Times Endeavor,Others,"Event Speaking Engagament ",Marketing - Events/ Conference,"Non-Selection "
