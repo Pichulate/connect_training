@@ -37,34 +37,26 @@ Uma Priority representa um **desafio real e prioritário** de uma empresa em um 
 | **Learnings** | Quando concluída | O que foi aprendido ao longo do processo de mentoring desta priority |
 | **Outcome** | Quando concluída | Qual foi o resultado final? O desafio foi superado? Como? |
 
+### Aba Match (Recomendação de Mentores)
+
+| Campo | Obrigatório | Descrição |
+|---|---|---|
+| **Matching Rationale** | Recomendado | Instruções adicionais para ajustar os pesos do algoritmo de recomendação. Quanto mais específico, mais precisa a lista gerada. Pode ser editado para regenerar a lista. Ex: *"O mentor precisa ter experiência em expansão para mercados latino-americanos e já ter passado pela fase de Series B."* |
+
 ---
 
-## O Fluxo de Recomendação Automática de Mentores
+## Recomendação Automática de Mentores
 
-Este é o diferencial mais poderoso do módulo de Priorities. Quando uma Priority é criada (ou atualizada) com os campos de conteúdo bem preenchidos, o sistema automaticamente:
+A Priority é o ponto de partida para a **Mentor Recommendation List** — a funcionalidade que sugere automaticamente os Top 10 mentores mais adequados para o desafio do founder. A lista é gerada na aba **"Match"** da Priority e usa um algoritmo de 4 etapas.
 
-### Como funciona
+### Como o algoritmo funciona (resumo)
 
-```
-Priority criada/atualizada
-       ↓
-Sistema analisa: Context + Challenges + Key Questions
-       ↓
-Algoritmo de matching identifica áreas de expertise relevantes
-       ↓
-Sistema cruza com base de mentores cadastrados
-       ↓
-Lista de mentores recomendados é gerada (ordenada por relevância)
-       ↓
-Analista revisa e seleciona mentores para criar Meetings
-```
+1. **Quebra em blocos:** os campos da Priority (Context, Key Questions, Tested Alternatives, Matching Rationale) são analisados e convertidos em 9 blocos de perguntas — Expertise, Cargos, Indústria, Geografia, Estágio, Business Model, Target Market, entre outros
+2. **Pesos:** cada bloco recebe um peso proporcional à sua importância para aquele desafio específico
+3. **Comparação:** cada bloco ponderado é comparado com os perfis de mentores em 9 categorias
+4. **Top 10:** a lista é refinada com o Matching Rationale e gera os 10 nomes mais relevantes, com justificativas de match
 
-### O que o algoritmo considera
-- **Expertise dos mentores** — tags e áreas de especialização
-- **Setor/vertical** — alinhamento com o setor da empresa
-- **Histórico de meetings** — mentores que já atenderam a empresa (evita repetição desnecessária)
-- **Qualidade do histórico** — ratings de mentorias anteriores do mentor
-- **Disponibilidade** — status ativo do mentor na plataforma
+> Para o passo a passo completo de como gerar, regenerar e interpretar a lista, veja [`mentor-recommendation.md`](./mentor-recommendation.md).
 
 ### Boas práticas para maximizar a qualidade das recomendações
 
@@ -76,7 +68,7 @@ Analista revisa e seleciona mentores para criar Meetings
 | Use linguagem específica em **Challenges** | Termos técnicos do setor melhoram o matching de expertise |
 | Formule **Key Questions** de forma direta e clara | Perguntas bem formuladas mapeiam melhor as lacunas de conhecimento |
 | Inclua o que já foi tentado em **Test Alternatives** | Evita recomendar mentores que abordariam algo já descartado |
-| Mantenha o **Status** atualizado | Priorities "ativas" concluídas continuam consumindo atenção do sistema |
+| Preencha o **Matching Rationale** na aba Match | Ajusta os pesos do algoritmo — quanto mais específico, mais precisa a lista |
 
 ---
 
@@ -84,10 +76,11 @@ Analista revisa e seleciona mentores para criar Meetings
 
 1. Localize a empresa usando a busca (ver `search.md`)
 2. No perfil da empresa ou no painel de Priorities, clique em **"+ Nova Priority"**
-3. Preencha todos os campos obrigatórios — quanto mais detalhe, melhor a recomendação
-4. Salve → o sistema processa e gera as recomendações automaticamente
-5. Revise a lista de mentores recomendados
-6. Crie um **Meeting** a partir do mentor escolhido (o meeting já nasce vinculado à Priority)
+3. Preencha todos os campos da aba **Details** — Context, Challenges, Key Questions e, se aplicável, Test Alternatives
+4. Salve a Priority
+5. Navegue até a aba **"Match"**, preencha o **Matching Rationale** e clique em **"Generate Recommended List"**
+6. Aguarde o processamento e revise o **Top 10 de mentores recomendados** com as justificativas de match
+7. Crie um **Meeting** a partir do mentor escolhido — o meeting já nasce vinculado à Priority
 
 ---
 
@@ -116,5 +109,3 @@ Priority: "Como escalar vendas enterprise?"
 - Ao encerrar um ciclo do programa, garanta que todas as Priorities têm **Learnings** e **Outcome** preenchidos
 
 ---
-
-> **Nota:** Adicione aqui detalhes do algoritmo de recomendação, exemplos reais de Priorities bem preenchidas e screenshots da interface quando disponíveis.
